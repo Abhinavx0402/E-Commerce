@@ -82,7 +82,7 @@ ShopVerse/
 
 ## 🎯 Implemented JavaScript Concepts
 
-This project demonstrates:
+This project demonstrates:-
 
 ### DOM Manipulation
 ```javascript
